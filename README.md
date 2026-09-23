@@ -210,3 +210,7 @@ python-docx
 ## Status
 
 This is a research utility intended for processing structured academic Word documents. It has been developed and tested for common thesis structures, but users should use `--list` to inspect heading detection before processing important documents.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
